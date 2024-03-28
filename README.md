@@ -4,6 +4,6 @@ A Bloom filter is a tunable probabilistic data structure that performs memory-ef
 ## See it in action!
 Early spell checkers were implemented with Bloom filters. Download the files and run `SpellCheck.py` to interact with a Bloom filter's spell-checking abilities in the shell.
 ## Resources
-- `words.utf-8.txt` and `wordlist.txt` from [Princeton CS Real-World Data Sets/](https://introcs.cs.princeton.edu/java/data/)
+- `words.utf-8.txt` and `wordlist.txt` from [Princeton CS Real-World Data Sets](https://introcs.cs.princeton.edu/java/data/)
 - `BitHash.py` from Professor Alan J. Broder
 - `BitVector.py` from Avinash Kak

@@ -1,3 +1,6 @@
+### THIS FILE WAS WRITTEN BY PROFESSOR ALAN J. BRODER
+### AND USED WITH PERMISSION
+
 import cityhash 
 import random
 
